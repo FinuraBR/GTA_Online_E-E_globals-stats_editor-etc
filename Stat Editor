@@ -11,3 +11,5 @@ MPX_ARENAWARS_AP_TIER // Set AP rank
 MPX_ARENAWARS_AP //Set AP
 10040
 
+// Other
+MPx_CAS_HEIST_FLOW = 4096 // Ceramic Pistol (use it and it will become available for purchase in the weapon shop)
