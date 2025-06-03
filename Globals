@@ -13,3 +13,4 @@ Global_262145.f_31023 =  (float) // "TUNER_CARCLUB_TIME_XP_MULTIPLIER"
 Global_262145.f_31024 =  (float) // "TUNER_SANDBOX_TIME_XP_MULTIPLIER"
 Global_262145.f_31025 =  (float) // "TUNER_MERCH_PURCHASE_XP_MULTIPLIER"
 Global_262145.f_25510 = (Float) // "AP_MULTIPLIER"
+Global_262145.f_8432 = 0 // Fireworks Launcher (use outside the gun shop, enter the shop and the gun will be available)
