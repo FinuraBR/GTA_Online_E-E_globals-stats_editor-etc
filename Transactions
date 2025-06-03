@@ -18,7 +18,7 @@ key: "SERVICE_EARN_GANGOPS_FINALE",
 price: 2550000,
 category: ["CATEGORY_SERVICE_WITH_THRESHOLD"],
 }
-
+----------
 // Go to the transactions tab on the menu located in recovery
 // Example for the railgun
 
@@ -42,3 +42,4 @@ WP_WT_HOMLNCH_t0_v0 // Homing Launcher
 WP_WT_RAYPISTOL_t0_v0 // Up N Atomizer
 WP_WT_RAYMINIGUN_t0_v0 // Widowmaker
 ​WP_WT_RPG_t0_v0 // RPG
+----------
