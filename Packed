@@ -149,6 +149,8 @@ Index: 54634 // Bigness Sketches Jeans
 Index: 36689 = _DLC22022PSTAT_BOOL0, 62 // Acid Production Boost (0/f = Reset)
 Index: 41241, Value: 5 = _DLC22022PSTAT_INT536, 5, 48 // Chair Shot (via Interaction Menu)
 Index: 41894 = _DLC12023PSTAT_BOOL9, 3 // Hinterland Work T-Shirt
+Index: 42215 // Independence Day Jacket
+Index: 42216 // Independence Day Pants
 // Female
 Index: 6092 = _NGTATPSTAT_BOOL0, 63 // White Benny's T-Shirt (Female)
 Index: 41895 // The Fist Fury (Female)
