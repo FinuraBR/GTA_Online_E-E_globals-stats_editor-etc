@@ -1,0 +1,13 @@
+// "MPX" replace X with 0 (zero) or 1 (zero for the first character slot and 1 for the second character slot)
+
+// Car Meet
+MPX_CAR_CLUB_REP // I do not recommend using this method because the levels you skip will not unlock the rewards, so it is recommended to set it to an XP slightly below the level you want and level up legitimately or use the XP multiplier
+997430 // Rank 1000
+
+// Arena Wars
+MPX_ARENAWARS_AP_TIER // Set AP rank
+1000
+
+MPX_ARENAWARS_AP //Set AP
+10040
+
