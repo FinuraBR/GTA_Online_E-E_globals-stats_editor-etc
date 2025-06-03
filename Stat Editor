@@ -30,3 +30,11 @@ MPX_MP_CHAR_ARMOUR_5_COUNT 	= 10
 // Other
 MPx_CAS_HEIST_FLOW = 4096 // Ceramic Pistol (use it and it will become available for purchase in the weapon shop)
 MPx_AWD_TREASURE_HUNTER, 50, TRUE
+----------
+// Fast Run and Reload
+MPX_CHAR_ABILITY_1_UNLCK, -1
+MPX_CHAR_ABILITY_2_UNLCK, -1
+MPX_CHAR_ABILITY_3_UNLCK, -1
+MPX_CHAR_FM_ABILITY_1_UNLCK, -1
+MPX_CHAR_FM_ABILITY_2_UNLCK, -1
+MPX_CHAR_FM_ABILITY_3_UNLCK, -1
