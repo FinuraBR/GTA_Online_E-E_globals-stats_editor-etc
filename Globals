@@ -1,0 +1,15 @@
+// Global_X.f_Y = (Z)
+// "X" you put in the index
+// "Z" next to index you must change to the specified value
+// "Y" you add an offset and place it in the first block
+
+Global_262145.f_31017 =  (float) // "TUNER_SPRINT_RACE_PLACE_XP_MULTIPLIER"
+Global_262145.f_31018 =  (float) // "TUNER_STREET_RACE_PLACE_XP_MULTIPLIER"
+Global_262145.f_31019 =  (float) // "TUNER_PURSUIT_RACE_PLACE_XP_MULTIPLIER"
+Global_262145.f_31020 =  (float) // "TUNER_CHECKPOINT_RACE_PLACE_XP_MULTIPLIER"
+Global_262145.f_31021 =  (float) // "TUNER_HEADTOHEAD_RACE_PLACE_XP_MULTIPLIER"
+Global_262145.f_31022 =  (float) // "TUNER_CARCLUB_VISITS_STREAK_XP_MULTIPLIER"
+Global_262145.f_31023 =  (float) // "TUNER_CARCLUB_TIME_XP_MULTIPLIER"
+Global_262145.f_31024 =  (float) // "TUNER_SANDBOX_TIME_XP_MULTIPLIER"
+Global_262145.f_31025 =  (float) // "TUNER_MERCH_PURCHASE_XP_MULTIPLIER"
+Global_262145.f_25510 = (Float) // "AP_MULTIPLIER"
