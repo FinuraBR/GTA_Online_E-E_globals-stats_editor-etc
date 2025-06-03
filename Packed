@@ -1,3 +1,4 @@
+// when there is no specified value, set it to 1 or true to activate and 0 (zero) or false to deactivate
 Index: 51196 // The Shocker (switch session)
 Index: 42148 // Snowball Launcher (switch session)
 Index: 42249 // Candy Cane (switch session)
@@ -145,6 +146,12 @@ Index: 54631 // Strapz Patterned Sweatshirt
 Index: 54632 // Strapz Patterned Jeans
 Index: 54633 // Bigness Sketches Shirt
 Index: 54634 // Bigness Sketches Jeans
+Index: 36689 = _DLC22022PSTAT_BOOL0, 62 // Acid Production Boost (0/f = Reset)
+Index: 41241, Value: 5 = _DLC22022PSTAT_INT536, 5, 48 // Chair Shot (via Interaction Menu)
+Index: 41894 = _DLC12023PSTAT_BOOL9, 3 // Hinterland Work T-Shirt
 // Female
 Index: 6092 = _NGTATPSTAT_BOOL0, 63 // White Benny's T-Shirt (Female)
 Index: 41895 // The Fist Fury (Female)
+Index: 41304 = _DLC22022TATTOOSTAT_BOOL0, 53 // Hinterland Work T-Shirt (Female)
+// Male
+Index: 41293 = _DLC22022TATTOOSTAT_BOOL0, 42 // Hinterland Work T-Shirt (Male)
