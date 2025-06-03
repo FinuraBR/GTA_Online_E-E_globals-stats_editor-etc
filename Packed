@@ -7,3 +7,5 @@ Index: 28158 // Navy Revolver (change session, and it will be available in the w
 Index: 30633 // Perico Pistol (change session, and it will be available in the weapon shop)
 Index: 30632 // Combat Shotgun (change session, and it will be available in the weapon shop)
 Index: 7315, Value: 5 // Stone Hatchet (wait for the message and the icon to appear on the map, if it does not appear try changing sessions)
+// Female
+Index: 6092 = _NGTATPSTAT_BOOL0, 63 // White Benny's T-Shirt (Female)
