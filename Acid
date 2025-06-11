@@ -1,0 +1,5 @@
+
+// Acid Production Boost (Packed Bool)
+Index: 36689 = _DLC22022PSTAT_BOOL0, 62 // Acid Production Boost (0/f = Reset)
+// Acid Product Name (Packed Int)
+Index: 41241, Value: 5 = _DLC22022PSTAT_INT536, 5, 48 // Chair Shot (via Interaction Menu)
