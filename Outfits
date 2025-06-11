@@ -8,10 +8,13 @@ Index: 42053
 
 // Others
 Index: 3773 = _TUPSTAT_BOOL10, 22 // A$$hole T-shirt
-Index: 42062 // The Zoophilist
-Index: 41895 // The Fist Fury (Female)
-Index: 41896 // Love Fist Shortsleeve
-Index: 41897 // Love Fist Tee
+Index: 41884 // Pendant 420
+Index: 41899 // Los Santos San Andreas (GTA) Tee
+Index: 41900 // T-shirt with robber mask (GTA)
+Index: 41901 // Yeti Year of the Rabbit Tee
+Index: 41915 // Paunders Cap
+Index: 54614 // Park Ranger Outfits (Male/Female)
+Index: 54635 // Bigness Jeans
 
 // GTA+
 Index: 34389 // Mummy
@@ -44,11 +47,11 @@ Index: 34735 // Blarneys Festive Beer Hat
 Index: 34736 // Red Reindeer Beer Hat
 Index: 34737 // Borfmas Beer Hat
 Index: 36703 // Dark Blue Vinyl
-Index: 36704 // Dark Blue Vinyl Cut 
+Index: 36704 // Dark Blue Vinyl Cut
 Index: 36717 // Yeti Year of the Rabbit Tee
-Index: 36718 // Gray Yeti Combat Shirt 
+Index: 36718 // Gray Yeti Combat Shirt
 Index: 36737 // Broker Checkerboard Tee
-Index: 36738 // Yeti Ape Tee 
+Index: 36738 // Yeti Ape Tee
 Index: 36751 // Gray Yeti Battle Pants
 Index: 36752 // Broker Checkerboard Cargos
 Index: 36759 // Noh Painted Rabbit
@@ -66,7 +69,7 @@ Index: 41889 // Hinterland Shorts
 Index: 41890 // Monochrome Striped Suit
 Index: 41891 // Skeleton Bodysuit
 Index: 41892 // Gray Camo Yeti Suit
-Index: 41893 // Festive Flannel Suit 
+Index: 41893 // Festive Flannel Suit
 Index: 41895 // The Fist Fury (Female)
 Index: 41896 // Love Fist Shortsleeve
 Index: 41903 // Republican Space Rangers Tee
@@ -149,17 +152,10 @@ Index: 30631 // Session Glow Necklace
 Index: 30645 // Red Tint Oversize Shades
 Index: 30652 // Yellow Checked Round Shades
 Index: 34445 // Pink Floral Tech Demon
-Index: 41894 // Hinterland Work T-Shirt
 Index: 41897 // Love Fist Tee
 Index: 41898 // San Andreas Federal Reserve Tee
 Index: 41902 // PRB Tee
 
 // Acid New Clothing (Packed Bool)
-Index: 41894 = _DLC12023PSTAT_BOOL9, 3 // Hinterland Work T-Shirt
-// Or
 Index: 41293 = _DLC22022TATTOOSTAT_BOOL0, 42 // Hinterland Work T-Shirt (Male)
 Index: 41304 = _DLC22022TATTOOSTAT_BOOL0, 53 // Hinterland Work T-Shirt (Female)
-
-// Independence Day
-Index: 42215 // Independence Day Jacket
-Index: 42216 // Independence Day Pants
