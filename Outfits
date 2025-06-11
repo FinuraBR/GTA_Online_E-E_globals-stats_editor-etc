@@ -149,3 +149,9 @@ Index: 41894 // Hinterland Work T-Shirt
 Index: 41897 // Love Fist Tee
 Index: 41898 // San Andreas Federal Reserve Tee
 Index: 41902 // PRB Tee
+
+// Acid New Clothing (Packed Bool)
+Index: 41894 = _DLC12023PSTAT_BOOL9, 3 // Hinterland Work T-Shirt
+// Or
+Index: 41293 = _DLC22022TATTOOSTAT_BOOL0, 42 // Hinterland Work T-Shirt (Male)
+Index: 41304 = _DLC22022TATTOOSTAT_BOOL0, 53 // Hinterland Work T-Shirt (Female)
