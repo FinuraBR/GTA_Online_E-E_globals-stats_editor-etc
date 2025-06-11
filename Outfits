@@ -155,3 +155,7 @@ Index: 41894 = _DLC12023PSTAT_BOOL9, 3 // Hinterland Work T-Shirt
 // Or
 Index: 41293 = _DLC22022TATTOOSTAT_BOOL0, 42 // Hinterland Work T-Shirt (Male)
 Index: 41304 = _DLC22022TATTOOSTAT_BOOL0, 53 // Hinterland Work T-Shirt (Female)
+
+// Independence Day
+Index: 42215 // Independence Day Jacket
+Index: 42216 // Independence Day Pants
